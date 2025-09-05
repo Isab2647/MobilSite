@@ -1,0 +1,127 @@
+body {
+  background-color: rgb(217, 195, 176);
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  font-family: "Bentham", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+dl {
+  font-family: "Bentham", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+footer {
+  font-family: "Bentham", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ol {
+  font-family: "Bentham", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+section {
+  padding-bottom: 2em;
+}
+section {
+  padding-top: 1em;
+}
+
+footer {
+  padding-top: 4em;
+}
+footer {
+  padding-bottom: 4em;
+}
+
+img {
+  padding-bottom: 2em;
+}
+
+img {
+  padding-top: 2em;
+}
+button {
+  font-family: "Jacques Francois", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+button {
+  background-color: rgb(41, 35, 80);
+  color: #ffffff;
+}
+
+nav {
+  margin-top: 4em;
+  margin-bottom: 4em;
+  font-size: 90%;
+}
+
+nav {
+  background-color: #b8b8e6;
+  padding: 30px;
+  max-width: 1000px;
+  margin: 0 auto;
+  border-bottom: 12em;
+  text-align: center;
+  color: #ffffff;
+  padding: 14px 20px;
+}
+
+button {
+  display: inline-block;
+  background-color: #5e5e83; /* Primær farve */
+  color: white; /* Tekstfarve */
+  padding: 5px 10px; /* Indvendig afstand */
+
+  font-weight: bold;
+  text-decoration: none; /* Fjern understregning */
+  border: none;
+
+  font-size: small;
+}
+
+nav a:visited {
+  background-color: #ffffff;
+}
+nav a:hover {
+  background-color: rgb(51, 36, 96);
+  color: rgb(247, 247, 219);
+  padding: 0.5em;
+}
+
+.knap {
+  font-size: 1em;
+  background-color: rgb(59, 59, 148);
+  padding: 0.5em;
+  border-radius: 1em;
+  text-decoration: none;
+  margin: 1em;
+  color: #b8b8e6;
+}
+
+.knap:hover {
+  background-color: #34235a;
+  color: #ffffff;
+}
